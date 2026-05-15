@@ -1,5 +1,5 @@
-<img width="978" height="566" alt="image" src="https://github.com/user-attachments/assets/6d8c8222-a197-426b-9094-6be08500d2e4" /># Web文件管理器 
-
+# Web文件管理器 
+<img width="980" height="1134" alt="示例图" src="https://github.com/user-attachments/assets/6140657a-87fb-44ac-b223-5d0fb75fe917" />
 
 ## 文件列表
 1. `index.php`          - 后端处理
@@ -14,7 +14,6 @@
 
 ## 项目概述
 这是一个Web文件管理器，提供类似桌面文件管理器的体验。项目采用前端JavaScript + 后端PHP的架构，通过AJAX实现无刷新操作。
-<img width="980" height="1134" alt="示例图" src="https://github.com/user-attachments/assets/6140657a-87fb-44ac-b223-5d0fb75fe917" />
 
 ## 主要功能模块
 
