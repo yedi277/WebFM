@@ -2,11 +2,15 @@
 
 
 ## 文件列表
-1. `kebab-case.js` - 前端交互功能
-2. `styles.css` - 样式定义
-3. `editor.js` - 文件编辑器
-4. `main.js` - 核心文件管理
-5. `index.php` - 后端处理
+1. `index.php`          - 后端处理
+2. `styles.css`         - 样式定义
+3. `editor.js`          - 文件编辑器
+4. `main.js`            - 核心文件管理
+5. `kebab-case.js`      - 前端交互功能
+6. `config.php`         - 用户配置文件模板
+7. `pas_hash.php`       - 简化版密码哈希生成器
+8. `password_hash.php`  - 密码哈希生成器
+9. `index单文件.php`     - 单文件版本 只需单文件就可运行
 
 ## 项目概述
 这是一个Web文件管理器，提供类似桌面文件管理器的体验。项目采用**前端JavaScript + 后端PHP**的架构，通过AJAX实现无刷新操作。
